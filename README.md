@@ -17,6 +17,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
+### First start the backend
+
+```sh
+npm run backend
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
